@@ -1,0 +1,41 @@
+body {
+  background: #eaffe6;
+}
+
+.title { padding-top: 5% }
+.calculator {
+  padding-top: 10%;
+}
+
+.calculator input {
+  font-size: 50px;
+  padding: 50px;
+  max-width: 100%;
+}
+
+.amount {
+}
+
+.copied {
+	background: #01c701;
+	color: white;
+}
+
+aside {
+  position: fixed;
+  right: 0;
+  padding: 50px;
+  background: #dbecd7;
+}
+
+aside ul li {
+  list-style-type: none;
+}
+
+aside a {
+  text-decoration: none;
+  border: 1px solid;
+  color: black;
+  padding: 5px;
+  display: inline-block;
+}
